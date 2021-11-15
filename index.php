@@ -268,7 +268,7 @@
 						<div class="art-header">
 							<div class="art-headerobject"></div>
 								<div class="art-logo">
-									<h1 class="art-logo-name"><a href="#">Toko Sepatu SerbaBebas</a></h1>
+									<h1 class="art-logo-name"><a href="#">Restoran Makan SerbaBebas</a></h1>
 									<h2 class="art-logo-text">Tersedia Berbagai Jenis Produk Sepatu, Sandal, Kaos DLL</h2>
 								</div>											
 						</div>
